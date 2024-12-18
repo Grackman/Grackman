@@ -12,9 +12,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoajNpeTlyYXo5YWF4a2JhdnAzcWppcmR0MGM3amE1MDRkZnJiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WsvbZxS6Se8wAa41p2/giphy.gif" width="300px"/>
 </h1>
 </div>
-<!--
-О себе
--->
+
+I am a budding DevOps professional with a keen interest and desire to grow in this area. I have experience with modern automation tools such as Docker, Kubernetes, Jenkins, and Terraform, and am familiar with AWS and Azure cloud platforms. I am actively learning and applying knowledge of setting up CI/CD pipelines and process automation, which helps improve the quality and speed of application deployment.
+
+My approach is to constantly improve my skills, strive to implement best practices, and closely collaborate with development teams to create effective processes and solutions. I am ready to grow in the field of Infrastructure as Code (IaC), focusing on infrastructure optimization to improve application stability and scalability.
+
+While I am on my way to becoming a DevOps specialist, my willingness to learn and quickly adapt to new technologies allows me to solve problems aimed at improving development and implementation processes.
+
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHljenhscDNjdG9ia25ybGM2aXN2aWF1ZWp5M3JiMGR0bGMwd2k5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
 </div>
@@ -45,9 +49,12 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Grackman&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
+  
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Grackman&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Grackman&show_icons=true" />
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Grackman&show_icons=true" />
+
 </picture>
