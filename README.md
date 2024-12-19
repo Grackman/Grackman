@@ -1,7 +1,7 @@
 <div id="badges" align="center">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoajNpeTlyYXo5YWF4a2JhdnAzcWppcmR0MGM3amE1MDRkZnJiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WsvbZxS6Se8wAa41p2/giphy.gif" width="300px"/>
 </div>
-I am a budding DevOps, professional with a keen interest and desire to grow in this area. I have experience with modern automation tools such as Docker, Kubernetes, Jenkins, and Terraform, and am familiar with AWS and Azure cloud platforms. I am actively learning and applying knowledge of setting up CI/CD pipelines and process automation, which helps improve the quality and speed of application deployment.
+I am a budding DevOps, interest and desire to grow in this area. I have experience with modern automation tools such as Docker, Kubernetes, Jenkins, and Terraform, and am familiar with AWS and Azure cloud platforms. I am actively learning and applying knowledge of setting up CI/CD pipelines and process automation, which helps improve the quality and speed of application deployment.
 
 My approach is to constantly improve my skills, strive to implement best practices, and closely collaborate with development teams to create effective processes and solutions. I am ready to grow in the field of Infrastructure as Code (IaC), focusing on infrastructure optimization to improve application stability and scalability.
 
