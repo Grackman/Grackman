@@ -1,27 +1,13 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtcWl4Y3BkeGJxenF0OGthbmMybzF0cDNrNGtoZXV1MHQzdzR4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WodOtJNNNQEXRSSXp2/giphy.gif" width="300"/>  
-</div>
 <div id="badges" align="center">
- <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D1%91%D0%BD%D0%BE%D0%BA-226208268/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://t.me/Grackman">
-  <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
- <br> <img src="https://komarev.com/ghpvc/?username=Grackman&style=flat-square&color=blue" alt=""/ > </br>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoajNpeTlyYXo5YWF4a2JhdnAzcWppcmR0MGM3amE1MDRkZnJiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WsvbZxS6Se8wAa41p2/giphy.gif" width="300px"/>
-</h1>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoajNpeTlyYXo5YWF4a2JhdnAzcWppcmR0MGM3amE1MDRkZnJiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WsvbZxS6Se8wAa41p2/giphy.gif" width="300px"/>
 </div>
-
 I am a budding DevOps professional with a keen interest and desire to grow in this area. I have experience with modern automation tools such as Docker, Kubernetes, Jenkins, and Terraform, and am familiar with AWS and Azure cloud platforms. I am actively learning and applying knowledge of setting up CI/CD pipelines and process automation, which helps improve the quality and speed of application deployment.
 
 My approach is to constantly improve my skills, strive to implement best practices, and closely collaborate with development teams to create effective processes and solutions. I am ready to grow in the field of Infrastructure as Code (IaC), focusing on infrastructure optimization to improve application stability and scalability.
 
 While I am on my way to becoming a DevOps specialist, my willingness to learn and quickly adapt to new technologies allows me to solve problems aimed at improving development and implementation processes.
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHljenhscDNjdG9ia25ybGM2aXN2aWF1ZWp5M3JiMGR0bGMwd2k5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
-</div>
+
 <h3> :woman_technologist: About Me :
   <h2> I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
   </h2>
@@ -49,6 +35,7 @@ While I am on my way to becoming a DevOps specialist, my willingness to learn an
     srcset="https://github-readme-stats.vercel.app/api?username=Grackman&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
+ 
   
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Grackman&show_icons=true"
@@ -58,3 +45,14 @@ While I am on my way to becoming a DevOps specialist, my willingness to learn an
 <img src="https://github-readme-stats.vercel.app/api?username=Grackman&show_icons=true" />
 
 </picture>
+ <div align="center">
+   <a href="https://www.linkedin.com/in/Grackman/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://t.me/Grackman">
+  <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+    <br> <img src="https://komarev.com/ghpvc/?username=Grackman&style=flat-square&color=blue" alt=""/ > </br>
+ 
+</h1>
+</div>
